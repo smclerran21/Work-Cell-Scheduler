@@ -14,6 +14,7 @@ Work Cell Scheduler.  WebIS Spring 2014.
 * Mike Groene
 * Andrew Lazalier
 * Jianghong Li
+* Sean McLerran
 
 ## Folders
 * TDD: TDD support libraries.
